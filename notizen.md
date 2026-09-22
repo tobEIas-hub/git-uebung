@@ -6,3 +6,5 @@
 - git push: lädt Commits zu GitHub hoch
 - git branch: paralleler Arbeitszweig, isoliert von main
 - git pull: holt Änderungen von GitHub, um lokal aktuell zu bleiben
+
+- added note to see if this lets me close the pull request
